@@ -1,6 +1,6 @@
 ### Hi, I'm Yash 👋
 
-**GenAI Engineer** building production LLM systems: AI agents, RAG, NL-to-SQL and speech AI.
+**AI Engineer**: building production LLM agents, RAG, NL-to-SQL and speech AI systems.
 AI Engineer at DiligentMinds Consulting · B.Tech, Delhi Technological University (2026) · Delhi, India
 
 ---
