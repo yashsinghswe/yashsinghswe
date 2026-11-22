@@ -1,7 +1,7 @@
 ### Hi, I'm Yash 👋
 
 **AI Engineer**: building production LLM agents, RAG, NL-to-SQL and speech AI systems.
-AI Engineer at DiligentMinds Consulting · B.Tech, Delhi Technological University (2026) · Delhi, India
+Currently at DiligentMinds Consulting · B.Tech, Delhi Technological University (2026) · Delhi, India
 
 ---
 
